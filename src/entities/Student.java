@@ -19,6 +19,4 @@ public class Student {
             return 0.0;
         }
     }
-
-
 }
